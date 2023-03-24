@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <br />
+  <br />
+   
+  <h1>
+    Github Search
+  </h1>
+  <br />
+  <form
+    onSubmit={[Function]}
+  >
+    <h5>
+      Enter username:
+    </h5>
+    <input
+      id="inp1"
+      onChange={[Function]}
+      placeholder="enter username"
+      type="text"
+      value=""
+    />
+    <button
+      id="post"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`renders correctly 2`] = `
+<div>
+  <br />
+  <br />
+  <h1>
+    Gitlab Search
+  </h1>
+  <br />
+  <form
+    onSubmit={[Function]}
+  >
+    <h5>
+      Enter username:
+    </h5>
+    <input
+      id="inp1"
+      onChange={[Function]}
+      placeholder="enter username"
+      type="text"
+      value=""
+    />
+    <button
+      id="post"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+  <p />
+</div>
+`;
+
+exports[`renders correctly 3`] = `
+<div>
+  <br />
+  <br />
+   
+  <h1>
+    Bitbucket Search
+  </h1>
+  <br />
+  <form
+    onSubmit={[Function]}
+  >
+    <h5>
+      Enter username:
+    </h5>
+    <input
+      id="inp1"
+      onChange={[Function]}
+      placeholder="enter username"
+      type="text"
+      value=""
+    />
+    <button
+      id="post"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+  <p />
+</div>
+`;
